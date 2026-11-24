@@ -1,3 +1,5 @@
 mypreprocessor
+a.out
 *.o
 *.i
+*~
