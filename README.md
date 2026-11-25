@@ -14,7 +14,7 @@ A modular C preprocessor tool that processes C source files by performing commen
    make
    
  2.Run the preprocessor on a C source file:  
-./mypreprocessor inputfile.c
+./mypreprocessor sample.c
 
  3.Output:
- This generates inputfile.i in the same directory.
+ This generates sample.i in the same directory.
